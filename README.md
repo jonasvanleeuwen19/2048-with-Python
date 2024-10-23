@@ -1,3 +1,5 @@
+![2048-review-banner](https://github.com/user-attachments/assets/37510195-281d-4ba2-be5d-7177fab6da76)
+
 # 🕹️ 2048 Game Clone
 
 **This is a 2048 game clone made with Python.**
